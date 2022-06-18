@@ -1,0 +1,265 @@
+10:05:53.312 Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.
+10:05:53.411 Navigated to https://www.carrefour.com/en/
+10:05:53.737 app.js?rd3rcf:1  #15 TODO : in production > remove console, see : babel.config.js 
+56d7 @ app.js?rd3rcf:1
+n @ app.js?rd3rcf:1
+0 @ app.js?rd3rcf:1
+n @ app.js?rd3rcf:1
+(anonymous) @ app.js?rd3rcf:1
+(anonymous) @ app.js?rd3rcf:1
+10:05:54.891 record.js:1 Uncaught TypeError: Cannot read properties of null (reading 'top')
+    at record.js:1:29664
+(anonymous) @ record.js:1
+10:05:54.898 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:05:54.899 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:05:54.899 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:05:54.899 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:05:54.904 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:05:54.996 companion-bubble.js:1436 Uncaught (in promise) TypeError: Cannot destructure property 'eligibleURLPatterns' of 'Jt' as it is undefined.
+    at companion-bubble.js:1436:11909
+    at Generator.next (<anonymous>)
+    at tn (companion-bubble.js:1436:11431)
+(anonymous) @ companion-bubble.js:1436
+tn @ companion-bubble.js:1436
+Promise.then (async)
+dn @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+St @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+dh @ companion-bubble.js:1333
+r.unstable_runWithPriority @ companion-bubble.js:1340
+go @ companion-bubble.js:1329
+Qs @ companion-bubble.js:1333
+Cl @ companion-bubble.js:1331
+(anonymous) @ companion-bubble.js:1329
+r.unstable_runWithPriority @ companion-bubble.js:1340
+go @ companion-bubble.js:1329
+nc @ companion-bubble.js:1329
+es @ companion-bubble.js:1329
+Mf @ companion-bubble.js:1331
+Hf @ companion-bubble.js:1333
+r.render @ companion-bubble.js:1333
+(anonymous) @ companion-bubble.js:1436
+Promise.then (async)
+(anonymous) @ companion-bubble.js:1436
+t @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1420
+t @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1
+10:05:55.902 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:05:55.902 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:05:55.902 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:05:55.902 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:05:55.911 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:07.409 Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.
+10:06:07.433 Navigated to https://www.carrefour.com/en/group
+10:06:07.800 app.js?rd3rcf:1  #15 TODO : in production > remove console, see : babel.config.js 
+56d7 @ app.js?rd3rcf:1
+n @ app.js?rd3rcf:1
+0 @ app.js?rd3rcf:1
+n @ app.js?rd3rcf:1
+(anonymous) @ app.js?rd3rcf:1
+(anonymous) @ app.js?rd3rcf:1
+10:06:08.656 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:08.656 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:08.656 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:08.656 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:08.657 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:09.266 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:09.266 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:09.266 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:09.266 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:09.270 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:09.399 companion-bubble.js:1436 Uncaught (in promise) TypeError: Cannot destructure property 'eligibleURLPatterns' of 'Jt' as it is undefined.
+    at companion-bubble.js:1436:11909
+    at Generator.next (<anonymous>)
+    at tn (companion-bubble.js:1436:11431)
+(anonymous) @ companion-bubble.js:1436
+tn @ companion-bubble.js:1436
+Promise.then (async)
+dn @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+St @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+dh @ companion-bubble.js:1333
+r.unstable_runWithPriority @ companion-bubble.js:1340
+go @ companion-bubble.js:1329
+Qs @ companion-bubble.js:1333
+Cl @ companion-bubble.js:1331
+(anonymous) @ companion-bubble.js:1329
+r.unstable_runWithPriority @ companion-bubble.js:1340
+go @ companion-bubble.js:1329
+nc @ companion-bubble.js:1329
+es @ companion-bubble.js:1329
+Mf @ companion-bubble.js:1331
+Hf @ companion-bubble.js:1333
+r.render @ companion-bubble.js:1333
+(anonymous) @ companion-bubble.js:1436
+Promise.then (async)
+(anonymous) @ companion-bubble.js:1436
+t @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1420
+t @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1
+10:06:09.747 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:09.749 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:09.750 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:09.750 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:09.804 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:09.875 group:554          GET https://production.smedia.lvp.llnw.net/5e6db2f80ad24020a5c27cc502a50e6c/Kj/hlCHvAIzH1FnW7jBF6yAoyAxtiMUIruYGgdfmYyUI/carrefour_ag_2019_vdef_mixe_alt_st_ang-mpeg-4-hq.mp4?x=0&h=395973a4b980f1ce7e89b8bd22852ce4 404 (Not Found)
+10:06:09.896 preview-vph.1024x576.jpeg:1          GET https://s2.content.video.llnw.net/images-prod/5e6db2f80ad24020a5c27cc502a50e6c/media/22171a5c164a43969c969796e430bd4e/preview-vph.1024x576.jpeg 404 (Not Found)
+Image (async)
+mounted @ app.js?rd3rcf:1
+ie @ app.js?rd3rcf:1
+Rn @ app.js?rd3rcf:1
+insert @ app.js?rd3rcf:1
+j @ app.js?rd3rcf:1
+(anonymous) @ app.js?rd3rcf:1
+t._update @ app.js?rd3rcf:1
+r @ app.js?rd3rcf:1
+ir.get @ app.js?rd3rcf:1
+ir @ app.js?rd3rcf:1
+Dn @ app.js?rd3rcf:1
+kr.$mount @ app.js?rd3rcf:1
+kr.$mount @ app.js?rd3rcf:1
+t._init @ app.js?rd3rcf:1
+kr @ app.js?rd3rcf:1
+56d7 @ app.js?rd3rcf:1
+n @ app.js?rd3rcf:1
+0 @ app.js?rd3rcf:1
+n @ app.js?rd3rcf:1
+(anonymous) @ app.js?rd3rcf:1
+(anonymous) @ app.js?rd3rcf:1
+10:06:10.177 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:10.177 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:10.178 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:10.178 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:10.178 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:10.438 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:10.438 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:10.438 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:10.439 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:10.447 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:42.672 Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.
+10:06:42.862 Navigated to https://www.carrefour.com/en/group/food-transition
+10:06:43.125 app.js?rd3rcf:1  #15 TODO : in production > remove console, see : babel.config.js 
+56d7 @ app.js?rd3rcf:1
+n @ app.js?rd3rcf:1
+0 @ app.js?rd3rcf:1
+n @ app.js?rd3rcf:1
+(anonymous) @ app.js?rd3rcf:1
+(anonymous) @ app.js?rd3rcf:1
+10:06:43.830 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:43.831 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:43.831 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:43.831 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:43.837 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:44.308 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:44.315 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:44.315 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:44.316 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:44.316 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:44.435 companion-bubble.js:1436 Uncaught (in promise) TypeError: Cannot destructure property 'eligibleURLPatterns' of 'Jt' as it is undefined.
+    at companion-bubble.js:1436:11909
+    at Generator.next (<anonymous>)
+    at tn (companion-bubble.js:1436:11431)
+(anonymous) @ companion-bubble.js:1436
+tn @ companion-bubble.js:1436
+Promise.then (async)
+dn @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+St @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+(anonymous) @ companion-bubble.js:1436
+dh @ companion-bubble.js:1333
+r.unstable_runWithPriority @ companion-bubble.js:1340
+go @ companion-bubble.js:1329
+Qs @ companion-bubble.js:1333
+Cl @ companion-bubble.js:1331
+(anonymous) @ companion-bubble.js:1329
+r.unstable_runWithPriority @ companion-bubble.js:1340
+go @ companion-bubble.js:1329
+nc @ companion-bubble.js:1329
+es @ companion-bubble.js:1329
+Mf @ companion-bubble.js:1331
+Hf @ companion-bubble.js:1333
+r.render @ companion-bubble.js:1333
+(anonymous) @ companion-bubble.js:1436
+Promise.then (async)
+(anonymous) @ companion-bubble.js:1436
+t @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1420
+t @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1
+(anonymous) @ companion-bubble.js:1
+10:06:44.753 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/atoms.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:44.753 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/polyfills.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:44.753 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/escape.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:44.753 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/playback.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:06:44.754 DevTools failed to load source map: Could not load content for chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/record.js.map: System error: net::ERR_BLOCKED_BY_CLIENT
+10:07:05.563 extracted-preview-BKC.1024x576.jpeg:1          GET https://s2.content.video.llnw.net/images-prod/5e6db2f80ad24020a5c27cc502a50e6c/media/193ce04c6ae54049aba5077ff19ba57b/extracted-preview-BKC.1024x576.jpeg 404 (Not Found)
+10:07:05.580 car_ta_50s_msb_200123_14h--2-.mp4:1          GET https://production.smedia.lvp.llnw.net/5e6db2f80ad24020a5c27cc502a50e6c/y0/Ksjq3Cie4x9s7psVvzh4kTqGXZ07moQYh4I4oljr8/car_ta_50s_msb_200123_14h--2-.mp4?x=0&h=7bc49ddc71515215cf7b672dbdf697f9 404 (Not Found)
+10:07:05.583 app.js?rd3rcf:1 VIDEOJS: ERROR: (CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED) The media could not be loaded, either because the server or network failed or because the format is not supported. Pe {code: 4, message: 'The media could not be loaded, either because the …rk failed or because the format is not supported.'}
+(anonymous) @ app.js?rd3rcf:1
+Y.r.error @ app.js?rd3rcf:1
+e.error @ app.js?rd3rcf:1
+e.handleTechError_ @ app.js?rd3rcf:1
+r @ app.js?rd3rcf:1
+r @ app.js?rd3rcf:1
+Vt.r.dispatcher.r.dispatcher @ app.js?rd3rcf:1
+error (async)
+Vt @ app.js?rd3rcf:1
+de @ app.js?rd3rcf:1
+on @ app.js?rd3rcf:1
+de @ app.js?rd3rcf:1
+on @ app.js?rd3rcf:1
+e.loadTech_ @ app.js?rd3rcf:1
+e.src_ @ app.js?rd3rcf:1
+(anonymous) @ app.js?rd3rcf:1
+Bn @ app.js?rd3rcf:1
+Bn @ app.js?rd3rcf:1
+(anonymous) @ app.js?rd3rcf:1
+r @ app.js?rd3rcf:1
+(anonymous) @ app.js?rd3rcf:1
+setTimeout (async)
+t.setTimeout @ app.js?rd3rcf:1
+En @ app.js?rd3rcf:1
+e.src @ app.js?rd3rcf:1
+e @ app.js?rd3rcf:1
+t.addChild @ app.js?rd3rcf:1
+i @ app.js?rd3rcf:1
+t.initChildren @ app.js?rd3rcf:1
+e @ app.js?rd3rcf:1
+eo @ app.js?rd3rcf:1
+initialize @ app.js?rd3rcf:1
+mounted @ app.js?rd3rcf:1
+ie @ app.js?rd3rcf:1
+Rn @ app.js?rd3rcf:1
+insert @ app.js?rd3rcf:1
+j @ app.js?rd3rcf:1
+(anonymous) @ app.js?rd3rcf:1
+t._update @ app.js?rd3rcf:1
+r @ app.js?rd3rcf:1
+ir.get @ app.js?rd3rcf:1
+ir.run @ app.js?rd3rcf:1
+Qn @ app.js?rd3rcf:1
+(anonymous) @ app.js?rd3rcf:1
+de @ app.js?rd3rcf:1
+Promise.then (async)
+se @ app.js?rd3rcf:1
+me @ app.js?rd3rcf:1
+nr @ app.js?rd3rcf:1
+ir.update @ app.js?rd3rcf:1
+gt.notify @ app.js?rd3rcf:1
+set @ app.js?rd3rcf:1
+or.set @ app.js?rd3rcf:1
+open @ app.js?rd3rcf:1
+value @ app.js?rd3rcf:1
+launchVideo @ app.js?rd3rcf:1
+ie @ app.js?rd3rcf:1
+n @ app.js?rd3rcf:1
+Fo.o._wrapper @ app.js?rd3rcf:1
